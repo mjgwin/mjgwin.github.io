@@ -6,7 +6,7 @@
 	box-sizing: border-box;
 }
 body{
-	background-image: url(background_repeat.jpg);
+	background-image: url(background.jpg);
 	image-rendering: -webkit-optimize-contrast;
 	-webkit-background-size:cover;
 	background-size: cover;
